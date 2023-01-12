@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hi , I'm Rachel </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-<h4 align="center">a second year Informatics Engineering student in Institut Teknologi Bandung</h4>
+<h4 align="center">a second year Informatics Engineering student at Institut Teknologi Bandung</h4>
 <h2> 👩 About Me </h2>
 <p align="justify"> My name is Rachel Gabriela Chen. As a second year Informatics Engineering student in Institut Teknologi Bandung, I spend a lot of time seeking new challenges and opportunities to learn and grow. My passion for technology and programming has led me to explore various areas within the field, from web development, software engineering, to cybersecurity. I am committed to staying up-to-date with the latest technologies and trends, and am always looking for ways to apply what I learn to real-world problems. </p>
 <h2> 💻 Skills </h2> 
